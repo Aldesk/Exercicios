@@ -38,7 +38,7 @@ while True:
         f.listar_emprestimos()
     
     elif opcao == "6":
-        print("-----------------------------------")
+        print("-----------------------------------") pull teste
         f.devolver_livros()
     
     elif opcao == "7":
